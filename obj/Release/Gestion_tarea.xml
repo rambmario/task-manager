@@ -1,0 +1,272 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gestion_tarea
+</name>
+</assembly>
+<members>
+<member name="T:Gestion_tarea.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.actualizar_c_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.agregar_c">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.agregar_c_1_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.agregar_c_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.ayuda_c">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.borrar_c_2_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.borrar_c_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.btnBorrar2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.buscar_c_25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.buscar_c_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.Calendar16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.Carpeta16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.eliminar_c_1_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.first_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.fondogteam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.gantt_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.guardar_3_1_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.guardar_3_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.imprimir_c">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.imprimir_c_1_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.imprimir_c_25">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.last_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.Mejora">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.mejorablanco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.mejorasgris">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.modificar_c_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.next_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.previous_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.salir_c">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.salir_c_1_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.salir_c_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.Tarea">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.Tarea256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.tareasblanco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_tarea.My.Resources.Resources.tareasgris">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Gestion_tarea.frmCalendario.DisplayList(System.Collections.Generic.IList{Google.Apis.Calendar.v3.Data.CalendarListEntry})">
+ <summary>Displays all calendars.</summary>
+</member>
+<member name="M:Gestion_tarea.frmCalendario.DisplayFirstCalendarEvents(Google.Apis.Calendar.v3.Data.CalendarListEntry)">
+ <summary>Displays the calendar's events.</summary>
+</member>
+<member name="T:Gestion_tarea.Gestion_tareaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Gestion_tarea.Gestion_tareaDataSet.cop_Tarea_GetAll_2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_tarea.Gestion_tareaDataSet.cop_Tarea_GetAll_2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_tarea.Gestion_tareaDataSet.cop_Tarea_GetAll_2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_tarea.Gestion_tareaDataSetTableAdapters.cop_Tarea_GetAll_2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_tarea.Gestion_tareaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Gestion_tarea.Gestion_tareaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gestion_tarea.Gestion_tareaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Gestion_tarea.Gestion_tareaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gestion_tarea.Gestion_tareaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Gestion_tarea.Gestion_tareaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gestion_tarea.Gestion_tareaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Gestion_tarea.Gestion_tareaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Gestion_tarea.Gestion_tareaDataSetTableAdapters.TableAdapterManager.UpdateAll(Gestion_tarea.Gestion_tareaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Gestion_tarea.Gestion_tareaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Gestion_tarea.Gestion_tareaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

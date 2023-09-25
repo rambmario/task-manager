@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{198BBA25-6A66-4F7F-A8C3-44914977EEDE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Gestion_tarea.My.MyApplication</StartupObject>
+    <RootNamespace>Gestion_tarea</RootNamespace>
+    <AssemblyName>Gestion_tarea</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Gestion_tarea.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Gestion_tarea.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>On</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo Solo 4.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.7.4137.9688, Culture=neutral, PublicKeyToken=a4292a325f69b123, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.1.7.0\lib\Net40-Client\BouncyCastle.Crypto.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.CrystalReports.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.TemplateEngine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.CrystalReports.TemplateEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis, Version=1.13.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.13.0\lib\net45\Google.Apis.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.Apis.Auth, Version=1.13.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.13.0\lib\net45\Google.Apis.Auth.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.Apis.Auth.PlatformServices, Version=1.13.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Auth.1.13.0\lib\net45\Google.Apis.Auth.PlatformServices.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.Apis.Calendar.v3, Version=1.13.0.493, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Calendar.v3.1.13.0.493\lib\portable-net45+netcore45+wpa81+wp8\Google.Apis.Calendar.v3.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.Apis.Core, Version=1.13.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.Core.1.13.0\lib\net45\Google.Apis.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.Apis.PlatformServices, Version=1.13.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Apis.1.13.0\lib\net45\Google.Apis.PlatformServices.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.12.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.12\lib\net45\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.WinForms.10.0.40219.1\lib\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Zlib.Portable, Version=1.11.0.0, Culture=neutral, PublicKeyToken=431cba815f6a8b5b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zlib.Portable.Signed.1.11.0\lib\portable-net4+sl5+wp8+win8+wpa81+MonoTouch+MonoAndroid\Zlib.Portable.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abm\frmAbmCliente.Designer.vb">
+      <DependentUpon>frmAbmCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmFeriado.Designer.vb">
+      <DependentUpon>frmAbmFeriado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmFeriado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmGeneral.Designer.vb">
+      <DependentUpon>frmAbmGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmEmpresa.Designer.vb">
+      <DependentUpon>frmAbmEmpresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmEmpresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmHora_real.Designer.vb">
+      <DependentUpon>frmAbmHora_real.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmHora_real.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmMejora.Designer.vb">
+      <DependentUpon>frmAbmMejora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmMejora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmMejora_accion.Designer.vb">
+      <DependentUpon>frmAbmMejora_accion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmMejora_accion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmMetodo_causa.Designer.vb">
+      <DependentUpon>frmAbmMetodo_causa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmMetodo_causa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmOrigen_mejora.Designer.vb">
+      <DependentUpon>frmAbmOrigen_mejora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmOrigen_mejora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmProyecto.Designer.vb">
+      <DependentUpon>frmAbmProyecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmProyecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmSub_proyecto.Designer.vb">
+      <DependentUpon>frmAbmSub_proyecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmSub_proyecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmTarea.Designer.vb">
+      <DependentUpon>frmAbmTarea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmTarea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_empresa.Designer.vb">
+      <DependentUpon>frmAbmTipo_empresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_empresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_mejora.Designer.vb">
+      <DependentUpon>frmAbmTipo_mejora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_mejora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_proyecto.Designer.vb">
+      <DependentUpon>frmAbmTipo_proyecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_proyecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_tarea.Designer.vb">
+      <DependentUpon>frmAbmTipo_tarea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_tarea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_usuario.Designer.vb">
+      <DependentUpon>frmAbmTipo_usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmTipo_usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmAbmUsuario.Designer.vb">
+      <DependentUpon>frmAbmUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmAbmUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmCalendario.Designer.vb">
+      <DependentUpon>frmCalendario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmCalendario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleCliente.Designer.vb">
+      <DependentUpon>frmDetalleCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleEmpresa.Designer.vb">
+      <DependentUpon>frmDetalleEmpresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleEmpresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleFeriado.Designer.vb">
+      <DependentUpon>frmDetalleFeriado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleFeriado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleHora_realGantt.Designer.vb">
+      <DependentUpon>frmDetalleHora_realGantt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleHora_realGantt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleHora_real.Designer.vb">
+      <DependentUpon>frmDetalleHora_real.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleHora_real.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleMejora.Designer.vb">
+      <DependentUpon>frmDetalleMejora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleMejora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleMejora_accion.Designer.vb">
+      <DependentUpon>frmDetalleMejora_accion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleMejora_accion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleMetodo_causa.Designer.vb">
+      <DependentUpon>frmDetalleMetodo_causa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleMetodo_causa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleOrigen_mejora.Designer.vb">
+      <DependentUpon>frmDetalleOrigen_mejora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleOrigen_mejora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleProyecto.Designer.vb">
+      <DependentUpon>frmDetalleProyecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleProyecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleSub_proyecto.Designer.vb">
+      <DependentUpon>frmDetalleSub_proyecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleSub_proyecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTareaExpress.Designer.vb">
+      <DependentUpon>frmDetalleTareaExpress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTareaExpress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTarea_2.Designer.vb">
+      <DependentUpon>frmDetalleTarea_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTarea_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_empresa.Designer.vb">
+      <DependentUpon>frmDetalleTipo_empresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_empresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_mejora.Designer.vb">
+      <DependentUpon>frmDetalleTipo_mejora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_mejora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_proyecto.Designer.vb">
+      <DependentUpon>frmDetalleTipo_proyecto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_proyecto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_tarea.Designer.vb">
+      <DependentUpon>frmDetalleTipo_tarea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_tarea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_usuario.Designer.vb">
+      <DependentUpon>frmDetalleTipo_usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleTipo_usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmDetalleUsuario.Designer.vb">
+      <DependentUpon>frmDetalleUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmDetalleUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmFechaTarea.Designer.vb">
+      <DependentUpon>frmFechaTarea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmFechaTarea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmGantt.Designer.vb">
+      <DependentUpon>frmGantt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmGantt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmMariling.Designer.vb">
+      <DependentUpon>frmMariling.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmMariling.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmReasignarTarea.Designer.vb">
+      <DependentUpon>frmReasignarTarea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmReasignarTarea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abm\frmReporteTarea.Designer.vb">
+      <DependentUpon>frmReporteTarea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Abm\frmReporteTarea.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clase\clsCliente.vb" />
+    <Compile Include="Clase\clsEmpresa.vb" />
+    <Compile Include="Clase\clsEstado_mejora.vb" />
+    <Compile Include="Clase\clsEstado_proyecto.vb" />
+    <Compile Include="Clase\clsEstado_tarea.vb" />
+    <Compile Include="Clase\clsFeriado.vb" />
+    <Compile Include="Clase\clsGantt.vb" />
+    <Compile Include="Clase\clsHora_real.vb" />
+    <Compile Include="Clase\clsLog_error.vb" />
+    <Compile Include="Clase\clsMejora.vb" />
+    <Compile Include="Clase\clsMejora_accion.vb" />
+    <Compile Include="Clase\clsMetodo_causa.vb" />
+    <Compile Include="Clase\clsOrigen_mejora.vb" />
+    <Compile Include="Clase\clsProyecto.vb" />
+    <Compile Include="Clase\clsSub_proyecto.vb" />
+    <Compile Include="Clase\clsTarea.vb" />
+    <Compile Include="Clase\clsTipo_empresa.vb" />
+    <Compile Include="Clase\clsTipo_mejora.vb" />
+    <Compile Include="Clase\clsTipo_proyecto.vb" />
+    <Compile Include="Clase\clsTipo_tarea.vb" />
+    <Compile Include="Clase\clsTipo_usuario.vb" />
+    <Compile Include="Clase\clsUsuario.vb" />
+    <Compile Include="Conexion.vb" />
+    <Compile Include="Conexion_txt.vb" />
+    <Compile Include="Entidad\entCliente.vb" />
+    <Compile Include="Entidad\entEmpresa.vb" />
+    <Compile Include="Entidad\entEstado_mejora.vb" />
+    <Compile Include="Entidad\entEstado_proyecto.vb" />
+    <Compile Include="Entidad\entEstado_tarea.vb" />
+    <Compile Include="Entidad\entFeriado.vb" />
+    <Compile Include="Entidad\entGantt.vb" />
+    <Compile Include="Entidad\entHora_real.vb" />
+    <Compile Include="Entidad\entLog_error.vb" />
+    <Compile Include="Entidad\entMejora.vb" />
+    <Compile Include="Entidad\entMejora_accion.vb" />
+    <Compile Include="Entidad\entMetodo_causa.vb" />
+    <Compile Include="Entidad\entOrigen_mejora.vb" />
+    <Compile Include="Entidad\entProyecto.vb" />
+    <Compile Include="Entidad\entSub_proyecto.vb" />
+    <Compile Include="Entidad\entTarea.vb" />
+    <Compile Include="Entidad\entTipo_empresa.vb" />
+    <Compile Include="Entidad\entTipo_mejora.vb" />
+    <Compile Include="Entidad\entTipo_proyecto.vb" />
+    <Compile Include="Entidad\entTipo_tarea.vb" />
+    <Compile Include="Entidad\entTipo_usuario.vb" />
+    <Compile Include="Entidad\entUsuario.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReport\frmReporteTareasEntreFechas.Designer.vb">
+      <DependentUpon>frmReporteTareasEntreFechas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormReport\frmReporteTareasEntreFechas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReport\frmReporteTareasEntreFechasIngesoft.Designer.vb">
+      <DependentUpon>frmReporteTareasEntreFechasIngesoft.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormReport\frmReporteTareasEntreFechasIngesoft.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion_tareaDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Gestion_tareaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion_tareaDataSet.vb">
+      <DependentUpon>Gestion_tareaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Abm\frmAbmCliente.resx">
+      <DependentUpon>frmAbmCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmFeriado.resx">
+      <DependentUpon>frmAbmFeriado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmGeneral.resx">
+      <DependentUpon>frmAbmGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmEmpresa.resx">
+      <DependentUpon>frmAbmEmpresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmHora_real.resx">
+      <DependentUpon>frmAbmHora_real.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmMejora.resx">
+      <DependentUpon>frmAbmMejora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmMejora_accion.resx">
+      <DependentUpon>frmAbmMejora_accion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmMetodo_causa.resx">
+      <DependentUpon>frmAbmMetodo_causa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmOrigen_mejora.resx">
+      <DependentUpon>frmAbmOrigen_mejora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmProyecto.resx">
+      <DependentUpon>frmAbmProyecto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmSub_proyecto.resx">
+      <DependentUpon>frmAbmSub_proyecto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmTarea.resx">
+      <DependentUpon>frmAbmTarea.vb</DependentUpon>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmTipo_empresa.resx">
+      <DependentUpon>frmAbmTipo_empresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmTipo_mejora.resx">
+      <DependentUpon>frmAbmTipo_mejora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmTipo_proyecto.resx">
+      <DependentUpon>frmAbmTipo_proyecto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmTipo_tarea.resx">
+      <DependentUpon>frmAbmTipo_tarea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmTipo_usuario.resx">
+      <DependentUpon>frmAbmTipo_usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmAbmUsuario.resx">
+      <DependentUpon>frmAbmUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmCalendario.resx">
+      <DependentUpon>frmCalendario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleCliente.resx">
+      <DependentUpon>frmDetalleCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleEmpresa.resx">
+      <DependentUpon>frmDetalleEmpresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleFeriado.resx">
+      <DependentUpon>frmDetalleFeriado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleHora_realGantt.resx">
+      <DependentUpon>frmDetalleHora_realGantt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleHora_real.resx">
+      <DependentUpon>frmDetalleHora_real.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleMejora.resx">
+      <DependentUpon>frmDetalleMejora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleMejora_accion.resx">
+      <DependentUpon>frmDetalleMejora_accion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleMetodo_causa.resx">
+      <DependentUpon>frmDetalleMetodo_causa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleOrigen_mejora.resx">
+      <DependentUpon>frmDetalleOrigen_mejora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleProyecto.resx">
+      <DependentUpon>frmDetalleProyecto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleSub_proyecto.resx">
+      <DependentUpon>frmDetalleSub_proyecto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleTareaExpress.resx">
+      <DependentUpon>frmDetalleTareaExpress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleTarea_2.resx">
+      <DependentUpon>frmDetalleTarea_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleTipo_empresa.resx">
+      <DependentUpon>frmDetalleTipo_empresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleTipo_mejora.resx">
+      <DependentUpon>frmDetalleTipo_mejora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleTipo_proyecto.resx">
+      <DependentUpon>frmDetalleTipo_proyecto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleTipo_tarea.resx">
+      <DependentUpon>frmDetalleTipo_tarea.vb</DependentUpon>
+      <SubType>Designer</SubType>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleTipo_usuario.resx">
+      <DependentUpon>frmDetalleTipo_usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmDetalleUsuario.resx">
+      <DependentUpon>frmDetalleUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmFechaTarea.resx">
+      <DependentUpon>frmFechaTarea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmGantt.resx">
+      <DependentUpon>frmGantt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmMariling.resx">
+      <DependentUpon>frmMariling.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmReasignarTarea.resx">
+      <DependentUpon>frmReasignarTarea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Abm\frmReporteTarea.resx">
+      <DependentUpon>frmReporteTarea.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReport\frmReporteTareasEntreFechas.resx">
+      <DependentUpon>frmReporteTareasEntreFechas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReport\frmReporteTareasEntreFechasIngesoft.resx">
+      <DependentUpon>frmReporteTareasEntreFechasIngesoft.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Gestion_tareaDataSet.xsc">
+      <DependentUpon>Gestion_tareaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Gestion_tareaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Gestion_tareaDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Gestion_tareaDataSet.xss">
+      <DependentUpon>Gestion_tareaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo Solo 4.ico" />
+    <Content Include="Resources\actualizar_c_50.png" />
+    <Content Include="Resources\agregar_c.png" />
+    <Content Include="Resources\agregar_c_1_50.png" />
+    <Content Include="Resources\agregar_c_35.png" />
+    <Content Include="Resources\ayuda_c.png" />
+    <Content Include="Resources\borrar_c_2_35.png" />
+    <Content Include="Resources\borrar_c_50.png" />
+    <Content Include="Resources\btnBorrar2.bmp" />
+    <Content Include="Resources\buscar_c_25.png" />
+    <Content Include="Resources\buscar_c_35.png" />
+    <None Include="packages.config" />
+    <EmbeddedResource Include="Reportes\rptTareasEntreFechas.rpt" />
+    <None Include="Reportes\rptTareasEntreFechasIngesoft.rpt" />
+    <None Include="Resources\tareasgris.png" />
+    <None Include="Resources\tareasblanco.png" />
+    <None Include="Resources\Carpeta16.png" />
+    <None Include="Resources\Calendar16.png" />
+    <Content Include="Resources\eliminar_c_1_35.png" />
+    <None Include="Resources\Tarea256.png" />
+    <None Include="Resources\Tarea.png" />
+    <None Include="Resources\guardar_3_1_35.png" />
+    <None Include="Resources\fondogteam.png" />
+    <None Include="Resources\gantt_16.png" />
+    <None Include="Resources\first-24.png" />
+    <Content Include="Resources\guardar_3_50.png" />
+    <None Include="Resources\imprimir_c.png" />
+    <None Include="Resources\Mejora.png" />
+    <None Include="Resources\imprimir_c_1_35.png" />
+    <None Include="Resources\mejorablanco.png" />
+    <None Include="Resources\mejorasgris.png" />
+    <None Include="Resources\imprimir_c_25.png" />
+    <None Include="Resources\last-24.png" />
+    <Content Include="Resources\modificar_c_35.png" />
+    <None Include="Resources\next-24.png" />
+    <None Include="Resources\previous-24.png" />
+    <Content Include="Resources\salir_c.png" />
+    <Content Include="Resources\salir_c_1_35.png" />
+    <Content Include="Resources\salir_c_50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

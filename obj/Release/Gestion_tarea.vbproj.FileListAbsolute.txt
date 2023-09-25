@@ -1,0 +1,451 @@
+V:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe.config
+V:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe
+V:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.pdb
+V:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.xml
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmCliente.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmEmpresa.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmHora_real.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmProyecto.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmSub_proyecto.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTarea.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_empresa.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_proyecto.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_tarea.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_usuario.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmUsuario.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleCliente.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleEmpresa.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleHora_real.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleProyecto.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleSub_proyecto.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTarea.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTarea_2.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_empresa.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_proyecto.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_tarea.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_usuario.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleUsuario.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTarea.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmtemp.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmLogin.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.Resources.resources
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbproj.GenerateResource.Cache
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.exe
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.xml
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.pdb
+V:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMariling.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmCliente.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmGeneral.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmEmpresa.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmHora_real.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmProyecto.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmSub_proyecto.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTarea.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_empresa.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_proyecto.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_tarea.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_usuario.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmUsuario.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleCliente.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleEmpresa.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleHora_real.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleProyecto.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleSub_proyecto.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTarea_2.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_empresa.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_proyecto.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_usuario.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleUsuario.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMariling.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTarea.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmtemp.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmLogin.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMain.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.Resources.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbproj.GenerateResource.Cache
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe.config
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.pdb
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.xml
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\MetroFramework.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_tarea.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.exe
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.xml
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.pdb
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbprojResolveAssemblyReference.cache
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora_accion.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMetodo_causa.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmOrigen_mejora.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_mejora.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora_accion.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMetodo_causa.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleOrigen_mejora.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_mejora.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportSource.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.Shared.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.Windows.Forms.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.WinForms.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\FlashControlV71.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.Common.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\stdole.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\ShockwaveFlashObjects.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\ADODB.dll
+H:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.WinForms.xml
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechas.resources
+H:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechasIngesoft.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe.config
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.exe
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.xml
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.pdb
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.pdb
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.xml
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\MetroFramework.dll
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\stdole.dll
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbprojResolveAssemblyReference.cache
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmCliente.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmFeriado.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmGeneral.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmEmpresa.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmHora_real.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora_accion.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMetodo_causa.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmOrigen_mejora.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmProyecto.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmSub_proyecto.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTarea.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_empresa.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_mejora.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_proyecto.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_tarea.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_usuario.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmUsuario.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleCliente.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleEmpresa.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleFeriado.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleHora_real.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora_accion.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMetodo_causa.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleOrigen_mejora.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleProyecto.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleSub_proyecto.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTarea_2.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_empresa.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_mejora.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_proyecto.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_tarea.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_usuario.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleUsuario.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmGantt.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMariling.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReasignarTarea.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTarea.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmtemp.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechas.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechasIngesoft.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmLogin.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMain.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.Resources.resources
+D:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbproj.GenerateResource.Cache
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe.config
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.pdb
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\BouncyCastle.Crypto.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.PlatformServices.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Calendar.v3.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Core.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.PlatformServices.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\log4net.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Newtonsoft.Json.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Zlib.Portable.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\BouncyCastle.Crypto.pdb
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.pdb
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.pdb
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.PlatformServices.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Calendar.v3.pdb
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Calendar.v3.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Core.pdb
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Core.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.PlatformServices.pdb
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.PlatformServices.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\log4net.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Newtonsoft.Json.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Zlib.Portable.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmCliente.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmFeriado.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmGeneral.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmEmpresa.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmHora_real.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora_accion.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMetodo_causa.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmOrigen_mejora.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmProyecto.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmSub_proyecto.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTarea.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_empresa.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_mejora.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_proyecto.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_tarea.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_usuario.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmUsuario.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmCalendario.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleCliente.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleEmpresa.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleFeriado.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleHora_real.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora_accion.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMetodo_causa.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleOrigen_mejora.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleProyecto.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleSub_proyecto.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTarea_2.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_empresa.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_mejora.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_proyecto.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_tarea.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_usuario.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleUsuario.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmGantt.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMariling.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReasignarTarea.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTarea.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmtemp.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechas.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechasIngesoft.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmLogin.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMain.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.Resources.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbproj.GenerateResource.Cache
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.exe
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.xml
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.pdb
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\MetroFramework.Design.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\MetroFramework.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\MetroFramework.Fonts.dll
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleHora_realGantt.resources
+H:\Google Drive\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbprojResolveAssemblyReference.cache
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe.config
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.exe
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.pdb
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.pdb
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\BouncyCastle.Crypto.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.PlatformServices.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Calendar.v3.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Core.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.PlatformServices.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\log4net.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\MetroFramework.Design.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\MetroFramework.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\MetroFramework.Fonts.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Newtonsoft.Json.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Zlib.Portable.dll
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\BouncyCastle.Crypto.pdb
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.pdb
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.pdb
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.PlatformServices.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Calendar.v3.pdb
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Calendar.v3.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Core.pdb
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Core.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.PlatformServices.pdb
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.PlatformServices.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\log4net.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Newtonsoft.Json.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Zlib.Portable.xml
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmCliente.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmFeriado.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmGeneral.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmEmpresa.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmHora_real.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora_accion.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMetodo_causa.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmOrigen_mejora.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmProyecto.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmSub_proyecto.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTarea.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_empresa.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_mejora.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_proyecto.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_tarea.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_usuario.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmUsuario.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmCalendario.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleCliente.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleEmpresa.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleFeriado.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleHora_realGantt.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleHora_real.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora_accion.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMetodo_causa.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleOrigen_mejora.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleProyecto.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleSub_proyecto.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTareaExpress.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTarea_2.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_empresa.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_mejora.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_proyecto.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_tarea.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_usuario.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleUsuario.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmGantt.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMariling.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReasignarTarea.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTarea.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmtemp.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechas.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechasIngesoft.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmLogin.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMain.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.Resources.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbproj.GenerateResource.Cache
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmFechaTarea.resources
+H:\Google Drive 2\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbprojResolveAssemblyReference.cache
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbproj.AssemblyReference.cache
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmCliente.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmFeriado.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmGeneral.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmEmpresa.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmHora_real.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMejora_accion.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmMetodo_causa.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmOrigen_mejora.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmProyecto.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmSub_proyecto.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTarea.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_empresa.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_mejora.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_proyecto.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_tarea.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmTipo_usuario.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmAbmUsuario.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmCalendario.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleCliente.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleEmpresa.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleFeriado.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleHora_realGantt.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleHora_real.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMejora_accion.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleMetodo_causa.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleOrigen_mejora.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleProyecto.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleSub_proyecto.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTareaExpress.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTarea_2.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_empresa.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_mejora.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_proyecto.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_tarea.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleTipo_usuario.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmDetalleUsuario.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmFechaTarea.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmGantt.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMariling.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReasignarTarea.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTarea.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmtemp.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechas.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmReporteTareasEntreFechasIngesoft.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmLogin.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.frmMain.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.Resources.resources
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbproj.GenerateResource.cache
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbproj.CoreCompileInputs.cache
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.exe
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.pdb
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe.config
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.exe
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.pdb
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Gestion_tarea.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\BouncyCastle.Crypto.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.CrystalReports.Design.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportSource.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.Shared.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.Windows.Forms.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.PlatformServices.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Calendar.v3.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Core.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.PlatformServices.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\log4net.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Newtonsoft.Json.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\System.Web.Services.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Zlib.Portable.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.Web.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\stdole.dll
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\BouncyCastle.Crypto.pdb
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.pdb
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.pdb
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Auth.PlatformServices.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Calendar.v3.pdb
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Calendar.v3.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Core.pdb
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.Core.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.PlatformServices.pdb
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Google.Apis.PlatformServices.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\log4net.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Newtonsoft.Json.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\bin\Release\Zlib.Portable.xml
+D:\VBNet\Gestion_tarea\Gestion_tarea\obj\Release\Gestion_tarea.vbproj.CopyComplete
