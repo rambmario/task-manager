@@ -1,3 +1,5 @@
+Legacy version. Modern rewrite: https://github.com/rambmario/task-manager-v2
+
 # Task Manager and Time Tracking System with Improvement Module
 
 This project is a software application designed to simplify task management and time tracking for projects and companies. With a focus on efficiency and organization, this tool offers a wide range of features to facilitate task administration and time monitoring. Additionally, it includes a robust Improvement Module for managing causes, actions, corrective actions, and closure cost tracking. Below are the key features of this application:
